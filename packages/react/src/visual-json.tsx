@@ -49,6 +49,7 @@ export function VisualJson({
 
   const historyRef = useRef<History>(new History());
   const isInternalChange = useRef(false);
+  const hasMounted = useRef(false);
   const [canUndo, setCanUndo] = useState(false);
   const [canRedo, setCanRedo] = useState(false);
 
@@ -66,6 +67,10 @@ export function VisualJson({
   }, []);
 
   useEffect(() => {
+    if (!hasMounted.current) {
+      hasMounted.current = true;
+      return;
+    }
     if (isInternalChange.current) {
       isInternalChange.current = false;
       return;
